@@ -1,0 +1,12 @@
+{
+  "name": "11praka",
+  "version": "1.0.0",
+  "scripts": { "start": "node app.js" },
+  "dependencies": {
+    "express": "^4.18.0",
+    "bcrypt": "^5.1.0",
+    "jsonwebtoken": "^9.0.0",
+    "nanoid": "^3.3.6",
+    "cors": "^2.8.5"
+  }
+}
