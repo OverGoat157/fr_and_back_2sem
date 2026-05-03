@@ -1,0 +1,13 @@
+{
+  "name": "20praka",
+  "version": "1.0.0",
+  "description": "MongoDB CRUD API for users",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0"
+  }
+}
